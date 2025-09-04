@@ -1,3 +1,1 @@
-
-
-Link: https://singleplagecv.netlify.app/
+https://singleplagecv.netlify.app/
